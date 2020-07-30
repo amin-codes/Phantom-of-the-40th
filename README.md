@@ -12,3 +12,5 @@ We made this game with the help of a paid version of RPG Maker MV, which can be 
  # Documentation and Downloadable File
  - Dropbox: https://bit.ly/3hUoreq
  
+ # Picture of Title Screen
+ ![title](phantom_title.PNG)
