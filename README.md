@@ -12,5 +12,8 @@ We made this game with the help of a paid version of RPG Maker MV, which can be 
  # Documentation and Downloadable File
  - Dropbox: https://bit.ly/3hUoreq
  
- # Picture of Title Screen
- ![title](phantom_title.PNG)
+ # Some Pictures
+ ![title screen](pics/phantom_title.PNG)
+ ![intro](pics/intro.PNG)
+ ![dialogue](pics/dialogue.PNG)
+ ![general assembly room](pics/general%20assembly.PNG)
