@@ -17,3 +17,4 @@ We made this game with the help of a paid version of RPG Maker MV, which can be 
  ![intro](pics/intro.PNG)
  ![dialogue](pics/dialogue.PNG)
  ![general assembly room](pics/general%20assembly.PNG)
+ ![combination puzzle](pics/combination%20puzzle.PNG)
